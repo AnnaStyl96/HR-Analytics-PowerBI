@@ -1,5 +1,10 @@
 # HR Analytics | Power BI Practice Project
 
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR-Analysis-Dashboard.png)
+
+
 ## Project Overview
 
 This project was developed as part of my hands-on learning and practice in Microsoft Power BI and preparation for the PL-300 certification exam.
