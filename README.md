@@ -4,6 +4,13 @@
 
 ![HR Analytics Dashboard](HR-Analysis-Dashboard.png)
 
+## Data Model
+
+The report uses a star schema with the Employee table connected to multiple dimension tables.
+
+I also practiced creating an inactive relationship between the Date and Employee tables and using USERELATIONSHIP in DAX.
+
+![HR Data Model](HR-Data-Model.png)
 
 ## Project Overview
 
